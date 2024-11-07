@@ -1,0 +1,21 @@
+# torch==2.0.1
+# torchvision==0.15.2
+# torchaudio==2.0.2
+# torch==2.4.1
+# torchvision==0.19.1
+# torchaudio==2.4.1
+
+platformdirs
+numpy==1.26.4
+
+llama_index
+llama-index-readers-web
+# llama-index-embeddings-openai
+llama-index-vector-stores-lancedb
+llama-index-embeddings-clip
+git+https://github.com/openai/CLIP.git
+
+PyMuPDF
+
+lancedb
+
